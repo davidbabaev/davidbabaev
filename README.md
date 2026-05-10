@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=nodejs,javascript,passportjs,expressjs,reactjs,mongodb,sql,typescript,html,css3)](https://github.com/syvixor/skills-icons)
+[![Skills](https://skills.syvixor.com/api/icons?perline=15&i=nodejs,passportjs,expressjs,reactjs,mongodb,sql,typescript,javascript,html,css3,git,github,render,googlecloud,jwt,claudeai,postman,cloudflare,cloudinary)](https://github.com/syvixor/skills-icons)
