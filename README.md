@@ -6,7 +6,7 @@ Self-taught full-stack developer · Shipped Mirage42 in production · React, Nod
 [![Skills](https://skills.syvixor.com/api/icons?perline=10&i=nodejs,passportjs,expressjs,reactjs,mongodb,javascript,html,css3,git,github,render,googlecloud,jwt,postman,cloudflare,cloudinary)](https://github.com/syvixor/skills-icons)
 
 ### Skills on working
-[![skills](https://skills.syvixor.com/api/icons?perline=15&i=postgresql,amazonwebservices,nextjs,bullmq,redis,docker,mysql,sql,meta,claudeai,typescript)](https://github.com/syvixor/skills-icons)
+[![skills](https://skills.syvixor.com/api/icons?perline=15&i=postgresql,zod,amazonwebservices,nextjs,bullmq,redis,docker,sql,meta,claudeai,typescript)](https://github.com/syvixor/skills-icons)
 
 ## Featured Project
 
